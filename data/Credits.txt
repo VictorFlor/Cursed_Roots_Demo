@@ -1,0 +1,41 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center>
+CREDITS
+
+\c[2]Producer
+Daniel Chargas
+Daniel Viera
+
+\c[2]Sound Designer
+Daniel Viera
+Lucas Henrique
+
+\c[2]Illustrator
+Maria Antonia
+
+\c[2]Game Designer
+Luciano Soares
+Victor Flor
+
+\c[2]Developer
+Victor Flor
+
+\c[2]Obrigado
+Aos Mentores, Rodrigo Rosas, Isabelly Rohana
+E ao Gabriel com o som.
+
+\c[2]Considerações
+RedPanda Maru
+Shora Lighting
+Galv
+Cutievirus
+
+
+</block>
+
+
+<block:999,0,10,10,300,center>
+THE END
+</block>
