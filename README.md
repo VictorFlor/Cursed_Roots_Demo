@@ -1,0 +1,1 @@
+certo dia um detetive particular, recebe uma carta de sua esposa falando que iria visitar os pais. Entretanto em seus sonhos acaba se deparando com ela mantida como refém de uma misteriosa criatura, e assim decidi ir averiguar a situação onde a sua mulher disse que iria.
